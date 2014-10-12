@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="4120093058">
+    <data-source source="LOCAL" name="Rails ttt: development" uuid="44b58bd7-de83-4021-b9c8-f45cb1b6025f">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/ttt_development</jdbc-url>
+      <user-name>root</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails ttt: test" uuid="90daede4-3198-46bb-8dea-ba8837073a5b">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/ttt_test</jdbc-url>
+      <user-name>root</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails ttt: production" uuid="d47a557e-2329-4cc6-b423-5d1bd269323e">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/ttt_production</jdbc-url>
+      <user-name>ttt</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddffedffedffedff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
